@@ -7,3 +7,7 @@ const deleteCards = function () {
 };
 
 // deleteCards();
+
+const summercards = document.querySelectorAll("#welcome-summer img");
+
+for (let x = 0; x < summercards.length; x++) {}
